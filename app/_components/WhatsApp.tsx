@@ -27,7 +27,7 @@ export default function WhatsApp() {
       </Link>
       <Link
         className="lg:hidden"
-        href="https://api.whatsapp.com/send?phone=+51931133631&text=Hola!%20Humber%20Nieto"
+        href="https://api.whatsapp.com/send?phone=51931133631&text=Hola!%20Humber%20Nieto"
         target="_blank"
       >
         <div className="bg-white p-2 rounded-full drop-shadow-lg hover:scale-110 duration-300 transition-all">
