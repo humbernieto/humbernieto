@@ -8,14 +8,14 @@ export default function WhatsApp() {
         href="https://web.whatsapp.com/send?phone=+51931133631&text=Hola!%20Humber%20Nieto"
         target="_blank"
       >
-        <div className="bg-white p-2 rounded-full drop-shadow-lg hover:scale-110 duration-300 transition-all">
+        <div className="dark:bg-zinc-800 bg-white p-2 rounded-full drop-shadow-lg hover:scale-110 duration-300 transition-all">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             strokeWidth={2}
             fill="none"
             viewBox="0 0 448 512"
             stroke="currentColor"
-            className="fill-zinc-950 w-9 h-9"
+            className="dark:fill-white fill-zinc-950 w-9 h-9"
           >
             <path
               strokeLinecap="round"
@@ -30,14 +30,14 @@ export default function WhatsApp() {
         href="https://api.whatsapp.com/send?phone=51931133631&text=Hola!%20Humber%20Nieto"
         target="_blank"
       >
-        <div className="bg-white p-2 rounded-full drop-shadow-lg hover:scale-110 duration-300 transition-all">
+        <div className="dark:bg-zinc-800 bg-white p-2 rounded-full drop-shadow-lg hover:scale-110 duration-300 transition-all">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             strokeWidth={2}
             fill="none"
             viewBox="0 0 448 512"
             stroke="currentColor"
-            className="fill-zinc-950 w-9 h-9"
+            className="dark:fill-white fill-zinc-950 w-9 h-9"
           >
             <path
               strokeLinecap="round"
